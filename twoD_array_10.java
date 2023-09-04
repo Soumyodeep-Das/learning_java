@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class twoD_array {
+public class twoD_array_10 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         
