@@ -11,8 +11,4 @@ with C that's why learning Java became more easier to me.
 In this repository, I'm uploading all my Java codes that I used to
 practice while learning it.
 
-The codes may not be in a sequential form as I had to put the index
-of the programmes at the end of its name, because Java isn't supporting
-a class name staring with numerical values.
-
 Thank You for visiting my Repo !!💛💛
