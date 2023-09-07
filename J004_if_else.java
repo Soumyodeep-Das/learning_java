@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class if_else_04 {
+public class J004_if_else {
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("\nEnter your age : ");

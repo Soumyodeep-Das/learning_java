@@ -1,6 +1,6 @@
 import java.util.*;
 
-class reverseString_using_recurtion_19{
+class J019_reverseString_using_recurtion{
     public static void reverseString(String str, int index){
         if(index==0){
             System.out.print(str.charAt(index));

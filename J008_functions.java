@@ -1,6 +1,6 @@
 import java.util.*;
 
-class functions_08{
+class J008_functions{
     public static int fibonacciSeries(int n){
         if(n==0)
             return 0;

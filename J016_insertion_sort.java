@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class insertion_sort_16 {
+public class J016_insertion_sort {
     public static void insertionSort(int[] array, int arraySize){
         int current, j;
         for(int i=1; i<arraySize; i++){

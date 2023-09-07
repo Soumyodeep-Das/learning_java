@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class selection_sort_15 {
+public class J015_selection_sort {
     public static void selectionSort(int[] array, int arraySize){
         int minimum, temp;
         for(int i=0; i<arraySize; i++){

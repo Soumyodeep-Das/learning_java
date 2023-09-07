@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class subsequences_in_strings_21 {
+public class J021_subsequences_in_strings {
     public static void subsequences(String str, int index, String newStr){
         if(index==str.length()){
             System.out.println(newStr);

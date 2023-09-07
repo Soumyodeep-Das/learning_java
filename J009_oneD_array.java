@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class oneD_array_09 {
+public class J009_oneD_array {
     public static void linearSearch(int[] array, int element, int size){
         int i;
         for(i=0; i<size; i++){

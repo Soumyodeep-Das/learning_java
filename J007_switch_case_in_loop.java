@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class switch_case_in_loop_07 {
+public class J007_switch_case_in_loop {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         //Calculator

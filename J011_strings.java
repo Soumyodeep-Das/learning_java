@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class strings_11 {
+public class J011_strings {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         // Taking string input

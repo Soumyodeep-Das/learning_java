@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class removeAllDuplicates_from_string_using_recursion_20 {
+public class J020_removeAllDuplicates_from_string_using_recursion {
     public static boolean[] alphabets = new boolean[26];
     public static void removeAllDuplicates(String str, int index, String newStr){
         if(index==str.length()){

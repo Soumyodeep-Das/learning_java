@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class strToInt_intToStr_12 {
+public class J012_strToInt_intToStr {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         // Parseing

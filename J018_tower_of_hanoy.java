@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class tower_of_hanoy_18 {
+public class J018_tower_of_hanoy {
     public static void towerOfHanoy(int disk, String source, String helper, String destination){
         if(disk==1){
             System.out.println("\nTransfered DISK "+disk+" from "+source+" to "+destination );

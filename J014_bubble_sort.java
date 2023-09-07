@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class bubble_sort_14 {
+public class J014_bubble_sort {
     public static void bubbleSort(int[] array, int arraySize){
         for(int i=0; i<arraySize-1; i++){
             for(int j=0; j<arraySize-i-1; j++){

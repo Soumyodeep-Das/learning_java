@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class loops_05 {
+public class J005_loops {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("\nEnter number of rows : ");

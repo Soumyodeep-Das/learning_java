@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class string_builder_13 {
+public class J013_string_builder {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("\nEnter a String : ");
