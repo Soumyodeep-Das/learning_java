@@ -7,7 +7,7 @@ public class J005_loops {
         int rows=sc.nextInt();
         System.out.println("Using for loop");
         for(int i=0; i<rows; i++){
-            for(int j=0; j<i; j++){
+            for(int j=0; j<=i; j++){
                 System.out.print(j);
             }
             System.out.print("\n");
@@ -17,7 +17,7 @@ public class J005_loops {
         int i=0, j=0;
         while(i<rows){
             j=0;
-            while(j<i){
+            while(j<=i){
                 System.out.print(j);
                 j++;
             }
@@ -32,7 +32,7 @@ public class J005_loops {
             do{
                 System.out.print(j);
                 j++;
-            }while(j<i);
+            }while(j<=i);
             System.out.print("\n");
             i++;
         }while(i<rows);
